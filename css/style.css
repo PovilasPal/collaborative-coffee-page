@@ -43,9 +43,8 @@ button {
 
 .group-icon {
     position: absolute;
-    top: 50%;
+    top: 250px;
     left: -100px;
-    transform: translateY(-50%);
     height: 200px;
     width: auto;
 }
@@ -87,3 +86,22 @@ button {
     height: auto;
     width: 200px;
 }
+.find-the-best-container {
+    width: 635px;
+    height: 200px;
+    position: absolute;
+    font-size: 100px;
+    line-height: 100px;
+left: 190px;
+top: 246px;
+    text-align: left;
+  }
+
+  .find-the {
+    margin: 0;
+    color: white;
+  }
+
+  .talent {
+    color: #f67e7e;
+  }
